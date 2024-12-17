@@ -1,0 +1,16 @@
+archive-jobs/db.properties
+archive-jobs/*.json
+deploy/
+helm/
+**/.git
+**/.gitignore
+**/.vscode
+**/coverage
+**/.env
+**/.aws
+**/.ssh
+Dockerfile
+README.md
+**/.DS_Store
+**/venv
+**/env
